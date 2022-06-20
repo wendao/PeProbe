@@ -197,7 +197,7 @@ delete all
 fetch 1PWJ, async=0
 save 3E2B/recptor.pdb, chain A
 delete all
-fetch 1LBD, async=0
+fetch 6HN6, async=0
 save 2P1T/recptor.pdb, chain A
 delete all
 fetch 1I7G, async=0
