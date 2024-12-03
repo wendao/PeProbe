@@ -1,0 +1,26 @@
+{
+    "name": "3c3o",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "ATFISVQLKKTSEVDLAKPLVKFIQQTYPSGGEEQAQYCRAAEELSKLRRAAVGRPLDKHEGALETLLRYYDQICSIEPKFPFSENQICLTFTWKDAFDKGSLFGGSVKLALASLGYEKSCVLFNCAALASQIAAEQNLDNDEGLKIAAKHYQFASGAFLHIKETVLSALSREPTVDISPDTVGTLSLIMLAQAQEVFFLKATRDKMKDAIIAKLANQAADYFGDAFKQCQYKDTLPKEVFPVLAAKHCIMQANAEYHQSILAKQQKKFGEEIARLQHAAELIKTVASRYDEYVNVKDFSDKINRALAAAKKDNDFIYHDRVPDLKDLDPIGKATLVKSTPVNVPISQKFTDLFEKM"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "DEEALKQLAEWVS"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

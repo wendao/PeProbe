@@ -1,0 +1,26 @@
+{
+    "name": "2zjd",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "PSEKTFKQRRTFEQRVEDVRLIREQHPTKIPVIIERYKGEKQLPVLDKTKFLVPDHVNMSELIKIIRRRLQLNANQAFFLLVNGHSMVSVSTPISEVYESEKDEDGFLYMVYASQETFGMK"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "GGDDDWTHLS"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

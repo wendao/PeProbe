@@ -1,0 +1,26 @@
+{
+    "name": "1awr",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "VNPTVFFDIAVDGEPLGRVSFELFADKVPKTAENFRALSTGEKGFGYKGSCFHRIIPGFMCQGGDFTRHNGTGGKSIYGEKFEDENFILKHTGPGILSMANAGPNTNGSQFFICTAKTEWLDGKHVVFGKVKEGMNIVEAMERFGSRNGKTSKKITIADCGQLE"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "HAGPIA"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

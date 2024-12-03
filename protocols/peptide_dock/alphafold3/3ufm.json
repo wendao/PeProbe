@@ -1,0 +1,26 @@
+{
+    "name": "3ufm",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "PIIPANLPEDWQEALLPEFSAPYFHELTDFLRQERKEYTIYPPAPDVFNALRYTPLGEVKVLILGQDPYHGPNQAHGLSFSVRPGVRVPPSLRNIYKELTEDIPGFVAPKHGYLRSWAEQGVLLLNAVLTVRAGQANSHQGKGWEHFTDAVIKAVNAKEERVVFILWGSYARKKKKLITGKNHVVIESGHPSPLSEQYFFGTRPFSKTNEALEKAGRGPVEWQLPATVTE"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "DDFPPEEDDLPF"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

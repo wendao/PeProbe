@@ -1,0 +1,26 @@
+{
+    "name": "1x2r",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "VGRLIYTAGGYFRQSLSYLEAYNPSNGSWLRLADLQVPRSGLAGCVVGGLLYAVGGRNNSPDGNTDSSALDCYNPMTNQWSPCASMSVPRNRIGVGVIDGHIYAVGGSHGCIHHSSVERYEPERDEWHLVAPMLTRRIGVGVAVLNRLLYAVGGFDGTNRLNSAECYYPERNEWRMITPMNTIRSGAGVCVLHNCIYAAGGYDGQDQLNSVERYDVETETWTFVAPMRHHRSALGITVHQGKIYVLGGYDGHTFLDSVECYDPDSDTWSEVTRMTSGRSGVGVAVTMEPC"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "LDEETGEFL"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

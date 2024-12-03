@@ -1,0 +1,26 @@
+{
+    "name": "4tzm",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "NNYNESLNKSKDAIDDKTWSKLFPSIVSDPDRSSNFMIRAIYVVFSAVLRQRNILEKEYFSKNYITENLSCMTLSFKNLRAHQIAQLLRAAGDATKDGFLKEISLVVTEHDGDVEAIEVFSMKFIYFENGGVVARLSTDNNDQEDPHFAELAQLRYEGAESVRDQMVTIVRSVQFLCTKVLEPLPAEFTANFRLKYTNDAPSNFRIDGFDDSSTFYTLPDGIQSVTIGHLRPGHHAAHMQCWSKSM"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "ARYGVSNTSINRK"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

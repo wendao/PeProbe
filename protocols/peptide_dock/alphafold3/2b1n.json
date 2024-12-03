@@ -1,0 +1,26 @@
+{
+    "name": "2b1n",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "APESWDWSKKGVITKVKFQGQCGSGWAFSATGAIEAAHAIATGNLVSLSEQELIDCVDESEGCYNGWHYQSFEWVVKHGGIASEADYPYKARDGKCKANEIQDKVTIDNYGVQILSNESTESEAESSLQSFVLEQPISVSIDAKDFHFYSGGIYDGGNCSSPYGINHFVLIVGYGSEDGVDYWIAKNSWGEDWGIDGYIRIQRNTGNLLGVCGMNYFASYPIIEKSE"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "KASVG"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

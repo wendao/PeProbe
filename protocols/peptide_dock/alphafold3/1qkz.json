@@ -1,0 +1,26 @@
+{
+    "name": "1qkz",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "DVKLVESGGGLVKPGRSLKLSCAASGFTFSDYYMFWVRQTPEQRLEWVATISDGGAYTYYPDSVKGRFTISRDNAKNNLYLQMNSLKSEDTGMYYCARDPLEYYGMDYWGQGTSVAVSSAKTTAPSVYPLAPVCGDTTGSSVTLGCLVKGYFPEPVTVTWNSGSLSSGVHTFPAVLQSDLYTLSSSVNVTSSTWPSQSITCNVAHPASSTKVDKKIVPR"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "ANGGASGQVK"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

@@ -1,0 +1,26 @@
+{
+    "name": "1ou8",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "SSPKRPYLLRAYYDWLVDNSFTPYLVVDATYLGVNVPVEYVKDGQIVLNLSASATGNLQLTNDFIQFNARFKGVSRELYIPMGAALAIYARENGDGVMFEPEEIYD"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "GAANDENY"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

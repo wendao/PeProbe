@@ -1,0 +1,26 @@
+{
+    "name": "4k39",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "PPLSLLIKPASSGCNLKCTYCFYHSLSDNRNVKSYGIMRDEVLESMVKRVLNEANGHCSFAFQGGEPTLAGLEFFEKLMELQRKHNYKNLKIYNSLQTNGTLIDESWAKFLSENKFLVGLSMDGPKEIHNLNRKDCCGLDTFSKVERAAELFKKYKVEFNILCVVTSNTARHVNKVYKYFKEKDFKFLQFINCLDPLYEEKGKYNYSLKPKDYTKFLKNLFDFWYEDFLNGNRVSIRYFDGLLETILLGKSSSCGMNGTCTCQFVVESDGSVYPCDFYVLDKWRLGNIQDMTMKELFETNKNHEFIKLSFKVHEECKKCKWFRLCKGGCRRCRDSKEDSALELNYYCQSYKEFFEYAFPRLINVANNI"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "AVPSCIPSRA"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

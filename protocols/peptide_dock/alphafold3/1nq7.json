@@ -1,0 +1,26 @@
+{
+    "name": "1nq7",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "TMSEIDRIAQNIIKSHLETCQYTMEELHQLAWQTHTYEEIKAYQSKSREALWQQCAIQITHAIQYVVEFAKRITGFMELCQNDQILLLKSGCLEVVLVRMCRAFNPLNNTVLFEGKYGGMQMFKALGSDDLVNEAFDFAKNLCSLQLTEEEIALFSSAVLISPDRAWLLEPRKVQKLQEKIYFALQHVIQKNHLDDETLAKLIAKIPTITAVCNLHGEKLQVFKQSHPDIVNTLFPPLYKELFN"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "HKILHRLLQE"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

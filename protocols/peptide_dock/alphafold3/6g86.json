@@ -1,0 +1,26 @@
+{
+    "name": "6g86",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "LDNTIEFLRGRVYLGAYDYTPEDTDELVFFTVEDAIFYNSFHLDFGPMNIGHLYRFAVIFHEILNDPENANKAVVFYSSASTRQRANAACMLCCYMILVQAWTPHQVLQPLAQVDPPFMPFRDAGYSNADFEITIQDVVYGVWRAKEKGLIDLHSFNLESYEKYEHVEFGDFNVLTPDFIAFASPQEDHPKGYLATKSSHLNQPFKSVLNFFANNNVQLVVRLNSHLYNKKHFEDIGIQHLDLIFEDGTCPDLSIVKNFVGAAETIIKRGGKIAVHCKAGLGRTGCLIGAHLIYTYGFTANECIGFLRFIRPGMVVGPQQHWLYLHQNDFREWKYTTRISLKPSEAIGGLYPLISLEEYRLQKKKLK"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "SFKNAPLLAPP"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

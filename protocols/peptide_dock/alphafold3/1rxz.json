@@ -1,0 +1,26 @@
+{
+    "name": "1rxz",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "MIDVIMTGELLKTVTRAIVALVSEARIHFLEKGLHSRAVDPANVAMVIVDIPKDSFEVYNIDEEKTIGVDMDRIFDISKSISTKDLVELIVEDESTLKVKFGSVEYKVALIDPSAIRKEPRIPELELPAKIVMDAGEFKKAIAAADKISDQVIFRSDKEGFRIEAKGDVDSIVFHMTETELIEFNGGEARSMFSVDYLKEFCKVAGSGDLLTIHLGTNYPVRLVFELVGGRAKVEYILAPRIESE"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "KSTQATLERWF"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

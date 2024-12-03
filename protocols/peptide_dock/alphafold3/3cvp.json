@@ -1,0 +1,26 @@
+{
+    "name": "3cvp",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "TDYPFEANNPYMYHENPMEEGLSMLKLANLAEAALAFEAVCQAAPEREEAWRSLGLTQAENEKDGLAIIALNHARMLDPKDIAVHAALAVSHTNEHNANAALASLRAWLLSQPQYEQLGSVNLQADVDIDDLNVQSEDFFFAAPNEYRECRTLLHAALEMNPNDAQLHASLGVLYNLSNNYDSAAANLRRAVELRPDDAQLWNKLGATLANGNRPQEALDAYNRALDINPGYVRVMYNMAVSYSNMSQYDLAAKQLVRAIYMQVGGTTPTGEASREATRSMWDFFRMLLNVMNRPDLVELTYAQNVEPFAKEF"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "NRASKL"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

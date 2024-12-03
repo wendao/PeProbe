@@ -1,0 +1,26 @@
+{
+    "name": "6n3e",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "MRHERVVIIKNMFHPMDFEDDPLVLNEIREDLRVECSKFGQIRKLLLFDRHPDGVASVSFRDPEEADYCIQTLDGRWFGGRQITAQAWDGTTDY"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "NRWDETP"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

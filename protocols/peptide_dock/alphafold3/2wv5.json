@@ -1,0 +1,26 @@
+{
+    "name": "2wv5",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "DLQKMVMGNTKPVELILDGKTVAICCATGVFGTAYLVPRHLFAEKYDKIMLDGRAMTDSDYRVFEFEIKVKGQDMLSDAALMVLHRGNKVRDITKHFRDTARMKKGTPVVGVVNNADVGRLIFSGEALTYKDIVVLMDGDTMPGLFAYKAATRAGYAGGAVLAKDGADTFIVGTHSAGGNGVGYCSCVSRSMLQKMKAHV"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "APAKELLNF"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

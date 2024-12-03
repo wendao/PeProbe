@@ -1,0 +1,26 @@
+{
+    "name": "3brh",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "QREILQKFLDEAQSKKITKEEFANEFLKLKRQSTKYKADKTYPTTVAEKPKNIKKNRYKDILPYDYSRVELSLITSDEDSSYINANFIKGVYGPKAYIATQGPLSTTLLDFWRMIWEYSVLIIVMACMEYEMGKKKCERYWAEPGEMQLEFGPFSVSCEAEKRKSDYIIRTLKVKFNSETRTIYQFHYKNWPAHDVPSSIDPILELIWDVRCYQEDDSVPICIHSSAGCGRTGVICAIDYTWMLLKDGIIPENFSVFSLIREMRTQRPSLVQTQEQYELVYNAVLELFKRQMDVIR"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "DNEYTAR"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

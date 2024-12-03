@@ -1,0 +1,26 @@
+{
+    "name": "2b9h",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "MPKRIVYNISSDFQLKSLLGEGAYGVVCSATHKPTGEIVAIKKIEPFDKPLFALRTLREIKILKHFKHENIITIFNIQRPDSFENFNEVYIIQELMQTDLHRVISTQMLSDDHIQYFIYQTLRAVKVLHGSNVIHRDLKPSNLLINSNCDLKVCDFGLARIIDESAADNSEPTGQQSGMVEFVATRWYRAPEVMLTSAKYSRAMDVWSCGCILAELFLRRPIFPGRDYRHQLLLIFGIIGTPHSDNDLRCIESPRAREYIKSLPMYPAAPLEKMFPRVNPKGIDLLQRMLVFDPAKRITAKEALEHPYLQTYHDPNDEPEGEPIPPSFFEFDHYKEALTTKDLKKLIWNEIFS"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "RRNLKGLNLNLH"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

@@ -1,0 +1,26 @@
+{
+    "name": "2xyi",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "SFDDAVEERVINEEYKIWKKNTPFLYDLVMTHALEWPSLTAQWLPDVTKQDGKDYSVHRLILGTHTSDEQNHLLIASVQLPSEDAQFDGSHYDNEKGEFGGFGSVCGKIEIEIKINHEGEVNRARYMPQNACVIATKTPSSDVLVFDYTKHPSKPEPSGECQPDLRLRGHQKEGYGLSWNPNLNGYLLSASDDHTICLWDINATPKEHRVIDAKNIFTGHTAVVEDVAWHLLHESLFGSVADDQKLMIWDTRNNNTSKPSHTVDAHTAEVNCLSFNPYSEFILATGSADKTVALWDLRNLKLKLHSFESHKDEIFQVQWSPHNETILASSGTDRRLHVWDLSKIGEEQSTEDAEDGPPELLFIHGGHTAKISDFSWNPNEPWIICSVSEDNIMQVWQMAENVYND"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "TKPAIRRLARRGGV"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

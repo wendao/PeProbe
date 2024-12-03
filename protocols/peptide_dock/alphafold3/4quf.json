@@ -1,0 +1,26 @@
+{
+    "name": "4quf",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "EEYVVEKILGKRFVNGRPQVLVKWSGFPNENNTWEPLENVGNCMKLVSDFESEVFRLH"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "KQTAR"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

@@ -1,0 +1,26 @@
+{
+    "name": "6fkp",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "KVTCLVCRKGDNDEFLLLCDGCDRGCHIYCHRPKMEAVPEGDWFCTVCLAQQV"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "ARTAATAR"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

@@ -1,0 +1,26 @@
+{
+    "name": "5y59",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "SSESTTFIVDVSPSMMKNNNVSKSMAYLEYTLLNKSKKSRKTDWISCYLANCPVSENSQEIPNVFQIQSFLAPVTTTATIGFIKRLKQYCDQHSHDSSNEGLQSMIQCLLVVSLDIKQQFQARKILKQIVVFTDNLDDLDITDEEIDLLTEELSTRIILIDCGKDTQEERKKSNWLKLVEAIPNSRIYNMNELLVEIT"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "NSKLLSLLRSKT"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

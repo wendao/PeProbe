@@ -1,0 +1,26 @@
+{
+    "name": "2ds8",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "KLLYCSFCGKSQHEVRKLIAGPSVYICDECVDLCNDIIREE"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "ALRVVK"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

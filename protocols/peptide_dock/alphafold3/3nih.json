@@ -1,0 +1,26 @@
+{
+    "name": "3nih",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "VHKHTGRNCGRKFKIGEPLYRCHECGCDDTCVLCIHCFNPKDHVNHHVCTDICTEFTSGICDCGDEEAWNSPLHCKAEE"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "RIAAA"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

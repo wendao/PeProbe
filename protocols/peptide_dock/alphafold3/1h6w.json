@@ -1,0 +1,26 @@
+{
+    "name": "1h6w",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "TGATLNGRGSTTSMRGVVKLTTTAGSQSGGDASSALAWNADVIHQRGGQTINGTLRINNTLTIASGGANITGTVNMTGGYIQGKRVVTQNEIDRTIPVGAIMMWAADSLPSDAWRFCHGGTVSASDCPLYASRIGTRYGGSSSNPGLPDMR"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "SLNYIIKVKE"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

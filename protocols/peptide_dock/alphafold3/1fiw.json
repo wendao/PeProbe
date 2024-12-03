@@ -1,0 +1,26 @@
+{
+    "name": "1fiw",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "IIGGQDAAHGAWPWMVSLQIFTYHNNRRYHVCGGSLLNSQWLLTAAHCFRIKKKVTDWRLIFGAKEVEWGTNKPVKPPLQERYVEKIIIHEKYSASSEANDIALMKITPPVTCGHFIGPGCLPQFRAGPPRVPQTCWVAGWGFLQENARRTSPMLQEARVDLIDLGLCNSTRWYNGRIRSTNVCAGYPEGKIDTCQGDSGGPLMCKDSAENSYVVVGITSWGVGCARAKRPGVYTSTWSYLNWIASKIGSTAVHMIQLPT"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "TTCDGPCGVRFRQN"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

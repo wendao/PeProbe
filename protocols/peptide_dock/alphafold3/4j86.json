@@ -1,0 +1,26 @@
+{
+    "name": "4j86",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "KLDIKKTFSNRSDRVKGIDFHPTEPWVLTTLYSGRVEIWNYETQVEVRSIQVTETPVRAGKFIARKNWIIVGSDDFRIRVFNYNTGEKVVDFEAHPDYIRSIAVHPTKPYVLSGSDDLTVKLWNWENNWALEQTFEGHEHFVMCVAFNPKDPSTFASGCLDRTVKVWSLGQSTPNFTLTTGQERGVNYVDYYPLPDKPYMITASDDLTIKIWDYQTKSCVATLEGHMSNVSFAVFHPTLPIIISGSEDGTLKIWNSSTYKVEKTLNVGLERSWCIATHPTGRKNYIASGFDNGFTVLSLG"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "TFKKTN"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

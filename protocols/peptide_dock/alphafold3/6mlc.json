@@ -1,0 +1,26 @@
+{
+    "name": "6mlc",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "SVWCRHCGATSAGLRCEWQNNYTQCAPCASLSSCPVCYRNYREEDLILQCRQCDRWMHAVCQNLNTEEEVENVADIGFDCSMCR"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "GAKRHR"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

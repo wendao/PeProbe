@@ -1,0 +1,26 @@
+{
+    "name": "4k0u",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "VPANEQISQLASLVAASKYLRVQCERSDLPDDGTILKTAVNVAVQKGWDTGRYQSLPQLSENLYQGLLKDGTPKATQCSSFNRTMTPFLDAMRTV"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "RTFRQVQSSISDFYD"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

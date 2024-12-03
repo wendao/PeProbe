@@ -1,0 +1,26 @@
+{
+    "name": "4piq",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "SGSSEQELAAIVRDLGCGPYFLGTHDKRFPGFLAGNKLACAIVNTAGRETGGVHWLAFGWNPRSRTCYMFDPFGFSDRRLKQIYSFEYEAMLRRSALALSPDRCLSLEQSTQTVQGPDSAACGLFCCMFLHAFVHWPDRPMDGNPTMNLLTGVPNGMLQSPQVLPTLRRNQEKLYRFLAHHSPYFRSHRAAIEHATAFDKMKQL"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "GVKSLKRRRCY"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

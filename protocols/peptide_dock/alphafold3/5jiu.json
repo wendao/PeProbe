@@ -1,0 +1,26 @@
+{
+    "name": "5jiu",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "NEQEKELQRRLKRLYPAVDEQETPLPRSWSPKDKFSYIGLSQNNLRVHYKGHGKTPKDAASVRATHPIPAACGIYYFEVKIVSKGRDGYMGIGLSAQGVNMNRLPGWDKHSYGYHGDDGHSFCSSGTGQPYGPTFTTGDVIGCCVNLINNTCFYTKNGHSLGIAFTDLPPNLYPTVGLQTPGEVVDANFGQHPFVFDIEDYMREWRTKI"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "ESSDSQ"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

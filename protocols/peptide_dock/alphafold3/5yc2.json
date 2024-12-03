@@ -1,0 +1,26 @@
+{
+    "name": "5yc2",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "HINLKVSDGSSEIFFKIKKTTPLRRLMEAFAKRQGKEMDSLRFLYDGIRIEADQTPEDLDMEDNDIIEAHRSLPAERNPLYKDDTLDHTPLIPKCRAQVIEFPDGPATFVRLKCTNPESKVPHFLMRMAKDSSISATSMFRSAFPKATQEEEDLEMRWIRDNLNPIEDKRVAGLWVPPADALALAKDYSMTPFINALLEASS"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "PLDDEEAFEKQVTS"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

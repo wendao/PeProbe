@@ -1,0 +1,26 @@
+{
+    "name": "3r42",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "GKISVPEAVVNWLFKVIQPIYNDGRTTFHDSLALLDNFHSLRPRTRVFTHSDGTPQLLLSIYGTISTGEDGSSPHSIPVIMWVPSMYPVKPPFISINLENFDMNTISSSLPIQEYIDSNGWIALPILHAWDPAAMNLIMVVQELMSLLHEPPQDQA"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "QVPSDPYN"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

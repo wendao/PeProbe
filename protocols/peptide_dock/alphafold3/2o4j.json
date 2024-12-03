@@ -1,0 +1,26 @@
+{
+    "name": "2o4j",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "KLSEEQQHIIAILLDAHHKTYDPTYADFRDFRPPVRMDGSTGSVTLDLSPLSMLPHLADLVSYSIQKVIGFAKMIPGFRDLTSDDQIVLLKSSAIEVIMLRSNQSFTMDDMSWDCGSQDYKYDVTDVSKAGHTLELIEPLIKFQVGLKKLNLHEEEHVLLMAICIVSPDRPGVQDAKLVEAIQDRLSNTLQTYIRCRHPPPGSHQLYAKMIQKLADLRSLNEEHSKQYRSLSFQPENSMKLTPLVLEVFGNE"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "KNHPMLMNLLKD"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

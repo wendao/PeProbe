@@ -1,0 +1,26 @@
+{
+    "name": "1gyb",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "LDFNTLAQNFTQFYYNQFDTDRSQLGNLYRNESMLTFETSQLQGAKDIVEKLVSLPFQKVQHRITTLDAQPASPYGDVLVMITGDLLIDEEQNPQRFSQVFHLIPDGNSYYVFNDIFRLNYS"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "GFSFG"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

@@ -1,0 +1,26 @@
+{
+    "name": "2puy",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "HMIHEDFCSVCRKSGQLLMCDTCSRVYHLDCLDPPLKTIPKGMWICPRCQDQMLKKEEAI"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "ARTKQTARKS"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

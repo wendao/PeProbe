@@ -1,0 +1,26 @@
+{
+    "name": "1elr",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "GKQALKEKELGNDAYKKKDFDTALKHYDKAKELDPTNMTYITNQAAVYFEKGDYNKCRELCEKAIEVGRENREDYRQIAKAYARIGNSYFKEEKYKDAIHFYNKSLAEHRTPDVLKKCQQAEKILKEQ"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "MEEVD"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

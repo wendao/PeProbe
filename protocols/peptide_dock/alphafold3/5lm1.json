@@ -1,0 +1,26 @@
+{
+    "name": "5lm1",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "AHEASSLYSEEKAKLLREMMAKIEDKNEVLDQFMDSMQLDPETVDNLDAYSHIPPQLMEKCAALSVRPDTVRNLVQSMQVLSGVFTDVEASLKDIRDLLEEDELLEQKFQEAVGQAGAISITSKAELAEVRREWAKYMEVHEKASFTNSELHRAMNLHVGNLRLLSGPLDQVRAALPTPALSPEDKAVLQNLKRILAKVQEMRDQRVSLEQQLRELIQKDDITASLVTTDHSEMKKLFEEQLKKYDQLKVYLEQNLAAQDRVLCALTEANVQYAAVRRVLSDLDQKWNSTLQTLVASYEAYEDLMKKSQEGRDFYADLESKVAALLERTQSTCQAREAARQQLLDRE"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "NIKSLSFPKL"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

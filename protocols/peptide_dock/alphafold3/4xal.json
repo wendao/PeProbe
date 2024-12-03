@@ -1,0 +1,26 @@
+{
+    "name": "4xal",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "QSMRKLHFSTAPPNPDAPWTPRVAGFNKRVFCAAVGRLAAMHARMAAVQLWDMSRPRTDEDLNELLGITTIRVTVCEGKNLLQRANELVN"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "SSGVDL"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

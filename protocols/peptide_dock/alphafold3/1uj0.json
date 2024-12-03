@@ -1,0 +1,26 @@
+{
+    "name": "1uj0",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "MARRVRALYDFEAVEDNELTFKHGELITVLDDSDANWWQGENHRGTGLFPSNFVTTDL"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "TPMVNRENK"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

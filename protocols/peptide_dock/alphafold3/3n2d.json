@@ -1,0 +1,26 @@
+{
+    "name": "3n2d",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "DVSFRLSGADPSSYGMFIKDLRNALPHTEKVYNIPLLLPSVSGAGRYLLMHLFNYDGNTITVAVDVTNVYIMGYLALTTSYFFNEPAADLASQYVFRSARRKITLPYSGNYERLQIAAGKPREKIPIGLPALDTAISTLLHYDSTAAAGALLVLIQTTAEAARFKYIEQQIQERAYRDEVPSSATISLENSWSGLSKQIQLAQGNNGVFRTPTVLVDSKGNRVQITNVTSNVVTSNIQLLLNTKNI"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "SDDDMG"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

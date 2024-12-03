@@ -1,0 +1,26 @@
+{
+    "name": "1ymt",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "GSSGGPNVPELILQLLQLEPEEDQVRARIVGCLQEPAKSRSDQPAPFSLLCRMADQTFISIVDWARRCMVFKELEVADQMTLLQNSWSELLVLDHIYRQVQYGKEDSILLVTGQEVELSTVAVQAGSLLHSLVLRAQELVLQLHALQLDRQEFVCLKFLILFSLDVKFLNNHSLVKDAQEKANAALLDYTLSHYPHSGDKFQQLLLSLVEVRALSMQAKEYLYHKHLGNEMPRNNLLIEMLQA"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "RPTILYALLS"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

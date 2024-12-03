@@ -1,0 +1,26 @@
+{
+    "name": "1se0",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "NDLNREETRLKTFTDWPLDWLDKRQLAQTGMYFTHAGDKVKCFFCGVEIGSWEQEDQPVPEHQRWSPNCPLLRRRTTNNVPINAEALDRILPPISYD"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "AIAYFIP"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

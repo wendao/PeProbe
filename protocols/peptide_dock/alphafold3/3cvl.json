@@ -1,0 +1,26 @@
+{
+    "name": "3cvl",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "TDYPFEANNPYMYHENPMEEGLSMLKLANLAEAALAFEAVCQAAPEREEAWRSLGLTQAENEKDGLAIIALNHARMLDPKDIAVHAALAVSHTNEHNANAALASLRAWLLSQPQYEQLGSVNLQADVDIDDLNVQSEDFFFAAPNEYRECRTLLHAALEMNPNDAQLHASLGVLYNLSNNYDSAAANLRRAVELRPDDAQLWNKLGATLANGNRPQEALDAYNRALDINPGYVRVMYNMAVSYSNMSQYDLAAKQLVRAIYMQVGGTTPTGEASREATRSMWDFFRMLLNVMNRPDLVELTYAQNVEPFAKEFGLQS"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "ELAKL"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}

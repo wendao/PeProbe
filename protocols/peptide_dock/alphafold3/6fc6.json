@@ -1,0 +1,26 @@
+{
+    "name": "6fc6",
+    "sequences": [
+        {
+            "protein": {
+                "id": [
+                    "A"
+                ],
+                "sequence": "GPMDRYQRKIGCFIQIPNLGRGQLKYVGPVDTKAGMFAGVDLLANIGKNDGSFMGKKYFQTEYPQSGLFIQLQKVASLIEKAS"
+            }
+        },
+        {
+            "protein": {
+                "id": [
+                    "B"
+                ],
+                "sequence": "SNNLIIDEETF"
+            }
+        }
+    ],
+    "modelSeeds": [
+        42
+    ],
+    "dialect": "alphafold3",
+    "version": 1
+}
