@@ -1,10 +1,11 @@
 import sys
 lines = open("db.list",'r').readlines()
-print "set fetch_path, mmcif"
+#print "set fetch_path, mmcif"
 for l in lines:
     es = l.strip().split('\t')
     if len(es[3].split(':')) == 2 and len(es[1])==1:
-        #print es[0] + "_" + es[1]
+        #print(es[0].lower() + "_" + es[1])
+        print(es[0].lower() + "_" + es[2])
 
         #ref protein
         #print "fetch "+es[0]+", async=0"
@@ -23,9 +24,9 @@ for l in lines:
         #print "delete all"
 
         #pep length
-        with open(es[0]+"/pep.fasta", 'r') as fp:
-            tmp = fp.readlines()
-            seq = tmp[1].strip()
-            if int(es[4]) != len(seq):
-              print es[0], es[4], len(seq), seq
+        #with open(es[0]+"/pep.fasta", 'r') as fp:
+        #    tmp = fp.readlines()
+        #    seq = tmp[1].strip()
+        #    if int(es[4]) != len(seq):
+        #      print es[0], es[4], len(seq), seq
 
