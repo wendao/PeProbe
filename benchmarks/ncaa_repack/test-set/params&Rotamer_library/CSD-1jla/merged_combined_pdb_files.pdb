@@ -1,0 +1,1008 @@
+MODEL     1
+HETATM    1  N   CSD     1       0.535   0.886  -0.005  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.314   0.027  -0.838  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.639   0.722  -2.139  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.674   1.982  -2.201  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.578  -0.431  -0.078  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.201  -1.435   1.387  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.357  -0.390   2.431  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.137  -2.421   0.924  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.186   0.440   0.240  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.204  -1.052  -0.755  1.00  0.00           H
+HETATM   11  H   CSD     1       0.417   1.921  -0.096  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.262  -0.885  -1.103  1.00  0.00           H
+ENDMDL
+MODEL     2
+HETATM    1  N   CSD     1       0.569   0.908   0.000  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.287   0.048  -0.823  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.604   0.717  -2.143  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.733   1.971  -2.210  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.542  -0.388  -0.032  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.462   0.977   0.743  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -2.318   2.311  -0.305  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.609   1.373   1.941  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.231  -0.954  -0.694  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.234  -1.088   0.774  1.00  0.00           H
+HETATM   11  H   CSD     1       0.450   1.946  -0.051  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.279  -0.874  -1.084  1.00  0.00           H
+ENDMDL
+MODEL     3
+HETATM    1  N   CSD     1       0.564   0.914   0.011  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.282   0.053  -0.826  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.610   0.712  -2.142  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.727   1.967  -2.211  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.557  -0.389  -0.073  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.811   0.907   0.174  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.513   1.120  -1.363  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.043   2.202   0.398  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.271  -0.792   0.921  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.036  -1.221  -0.633  1.00  0.00           H
+HETATM   11  H   CSD     1       0.419   1.949   0.005  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.296  -0.872  -1.045  1.00  0.00           H
+ENDMDL
+MODEL     4
+HETATM    1  N   CSD     1       0.570   0.914   0.021  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.276   0.059  -0.824  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.609   0.714  -2.144  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.739   1.967  -2.224  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.546  -0.394  -0.075  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.708   0.935   0.367  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.281   1.536  -1.123  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.850   2.072   0.916  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.094  -1.132  -0.699  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.254  -0.918   0.859  1.00  0.00           H
+HETATM   11  H   CSD     1       0.486   1.954  -0.029  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.307  -0.856  -1.072  1.00  0.00           H
+ENDMDL
+MODEL     5
+HETATM    1  N   CSD     1       0.570   0.913   0.020  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.277   0.059  -0.825  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.609   0.715  -2.145  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.740   1.967  -2.223  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.550  -0.390  -0.073  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.719   0.941   0.342  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.361   1.443  -1.152  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.867   2.121   0.788  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.261  -0.897   0.870  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.090  -1.140  -0.689  1.00  0.00           H
+HETATM   11  H   CSD     1       0.504   1.954  -0.050  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.304  -0.858  -1.068  1.00  0.00           H
+ENDMDL
+MODEL     6
+HETATM    1  N   CSD     1       0.546   0.916   0.016  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.285   0.049  -0.830  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.629   0.706  -2.146  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.695   1.964  -2.198  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.544  -0.443  -0.081  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.833   0.807   0.215  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.486   1.137  -1.322  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.104   2.092   0.583  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.006  -1.271  -0.660  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.239  -0.867   0.901  1.00  0.00           H
+HETATM   11  H   CSD     1       0.382   1.948   0.023  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.315  -0.859  -1.059  1.00  0.00           H
+ENDMDL
+MODEL     7
+HETATM    1  N   CSD     1      -0.002   0.576   0.510  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.200   0.335  -0.937  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.864   1.530  -1.681  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.237   1.056  -2.675  1.00  0.00           O
+HETATM    5  CB  CSD     1      -0.755  -1.098  -1.208  1.00  0.00           C
+HETATM    6  SG  CSD     1      -0.890  -1.487  -2.978  1.00  0.00           S
+HETATM    7  OD1 CSD     1       0.458  -0.737  -3.702  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.068  -0.654  -3.462  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -0.062  -1.836  -0.748  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.750  -1.240  -0.730  1.00  0.00           H
+HETATM   11  H   CSD     1      -0.606   1.282   0.993  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.821   0.295  -1.372  1.00  0.00           H
+ENDMDL
+MODEL     8
+HETATM    1  N   CSD     1       0.542   0.912  -0.013  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.301   0.031  -0.829  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.619   0.709  -2.136  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.684   1.967  -2.180  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.585  -0.336  -0.059  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.606  -1.577  -0.904  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.502  -2.694  -1.562  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.160  -0.856  -2.124  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.302  -0.756   0.931  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.201   0.571   0.125  1.00  0.00           H
+HETATM   11  H   CSD     1       0.460   1.950  -0.120  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.264  -0.908  -1.022  1.00  0.00           H
+ENDMDL
+MODEL     9
+HETATM    1  N   CSD     1       0.546   0.912  -0.015  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.299   0.031  -0.827  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.615   0.710  -2.135  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.691   1.968  -2.182  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.588  -0.322  -0.059  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.599  -1.584  -0.886  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.489  -2.729  -1.481  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.121  -0.902  -2.143  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.313  -0.721   0.940  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.206   0.588   0.100  1.00  0.00           H
+HETATM   11  H   CSD     1       0.467   1.949  -0.123  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.260  -0.911  -1.012  1.00  0.00           H
+ENDMDL
+MODEL     10
+HETATM    1  N   CSD     1       0.547   0.908  -0.013  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.300   0.033  -0.828  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.617   0.712  -2.137  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.693   1.970  -2.187  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.582  -0.316  -0.048  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.604  -1.573  -0.869  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.502  -2.733  -1.450  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.114  -0.895  -2.132  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.300  -0.717   0.948  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.193   0.598   0.118  1.00  0.00           H
+HETATM   11  H   CSD     1       0.361   1.937  -0.011  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.256  -0.906  -1.041  1.00  0.00           H
+ENDMDL
+MODEL     11
+HETATM    1  N   CSD     1       0.547   0.909  -0.011  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.299   0.033  -0.828  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.618   0.711  -2.138  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.692   1.970  -2.187  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.580  -0.322  -0.050  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.594  -1.585  -0.872  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.485  -2.743  -1.444  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.100  -0.914  -2.141  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.301  -0.721   0.948  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.197   0.587   0.115  1.00  0.00           H
+HETATM   11  H   CSD     1       0.397   1.944  -0.045  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.262  -0.902  -1.040  1.00  0.00           H
+ENDMDL
+MODEL     12
+HETATM    1  N   CSD     1       0.553   0.910  -0.016  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.299   0.036  -0.828  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.610   0.711  -2.136  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.702   1.968  -2.184  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.606  -0.298  -0.088  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.344  -1.348   1.369  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.271  -0.475   2.363  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.500  -2.510   0.861  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.118   0.635   0.230  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.290  -0.844  -0.773  1.00  0.00           H
+HETATM   11  H   CSD     1       0.559   1.938  -0.214  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.237  -0.917  -1.032  1.00  0.00           H
+ENDMDL
+MODEL     13
+HETATM    1  N   CSD     1       0.539   0.906  -0.014  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.304   0.028  -0.830  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.623   0.712  -2.135  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.681   1.972  -2.184  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.581  -0.330  -0.046  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.596  -1.596  -0.865  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.486  -2.767  -1.412  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.085  -0.936  -2.146  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.293  -0.728   0.950  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.200   0.578   0.122  1.00  0.00           H
+HETATM   11  H   CSD     1       0.350   1.935  -0.015  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.254  -0.909  -1.046  1.00  0.00           H
+ENDMDL
+MODEL     14
+HETATM    1  N   CSD     1       0.548   0.914   0.019  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.285   0.052  -0.830  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.633   0.706  -2.151  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.697   1.966  -2.201  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.537  -0.470  -0.088  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.698   0.792   0.517  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.451   1.409  -0.879  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.847   1.947   1.024  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.217  -1.075   0.786  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.096  -1.157  -0.759  1.00  0.00           H
+HETATM   11  H   CSD     1       0.518   1.951  -0.091  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.325  -0.845  -1.084  1.00  0.00           H
+ENDMDL
+MODEL     15
+HETATM    1  N   CSD     1       0.536   0.886  -0.004  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.314   0.028  -0.838  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.638   0.721  -2.139  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.675   1.982  -2.201  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.572  -0.430  -0.077  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.133  -1.433   1.363  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -2.636  -2.015   1.907  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.756  -0.406   2.422  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.198  -1.057  -0.749  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.183   0.436   0.252  1.00  0.00           H
+HETATM   11  H   CSD     1       0.423   1.921  -0.099  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.262  -0.889  -1.097  1.00  0.00           H
+ENDMDL
+MODEL     16
+HETATM    1  N   CSD     1       0.555   0.913  -0.014  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.296   0.038  -0.827  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.608   0.710  -2.137  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.706   1.967  -2.186  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.600  -0.298  -0.088  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.278  -1.322   1.368  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -2.837  -1.742   1.904  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.806  -0.328   2.422  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.129   0.630   0.220  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.271  -0.872  -0.763  1.00  0.00           H
+HETATM   11  H   CSD     1       0.551   1.942  -0.196  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.240  -0.918  -1.023  1.00  0.00           H
+ENDMDL
+MODEL     17
+HETATM    1  N   CSD     1       0.550   0.913  -0.015  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.298   0.035  -0.827  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.612   0.710  -2.135  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.697   1.967  -2.183  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.599  -0.309  -0.088  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.271  -1.333   1.368  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -2.829  -1.744   1.915  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.789  -0.340   2.417  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.134   0.615   0.220  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.267  -0.886  -0.765  1.00  0.00           H
+HETATM   11  H   CSD     1       0.546   1.941  -0.200  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.243  -0.918  -1.024  1.00  0.00           H
+ENDMDL
+MODEL     18
+HETATM    1  N   CSD     1       0.555   0.912  -0.014  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.296   0.038  -0.827  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.608   0.710  -2.136  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.706   1.967  -2.187  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.599  -0.298  -0.088  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.276  -1.308   1.377  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -2.833  -1.754   1.897  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.836  -0.299   2.430  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.267  -0.880  -0.761  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.133   0.630   0.210  1.00  0.00           H
+HETATM   11  H   CSD     1       0.555   1.941  -0.201  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.240  -0.917  -1.023  1.00  0.00           H
+ENDMDL
+MODEL     19
+HETATM    1  N   CSD     1       0.561   0.888  -0.020  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.313   0.041  -0.841  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.626   0.718  -2.156  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.700   1.977  -2.180  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.559  -0.411  -0.058  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.106  -1.522   1.295  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -2.609  -2.034   1.905  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.592  -0.585   2.381  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.112   0.452   0.366  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.242  -0.965  -0.737  1.00  0.00           H
+HETATM   11  H   CSD     1       0.476   1.924  -0.134  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.250  -0.885  -1.095  1.00  0.00           H
+ENDMDL
+MODEL     20
+HETATM    1  N   CSD     1       0.540   0.913  -0.011  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.299   0.032  -0.830  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.621   0.708  -2.134  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.681   1.966  -2.181  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.597  -0.336  -0.092  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.255  -1.379   1.346  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -2.804  -1.870   1.851  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.835  -0.392   2.427  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.140   0.577   0.233  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.260  -0.909  -0.775  1.00  0.00           H
+HETATM   11  H   CSD     1       0.503   1.946  -0.165  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.253  -0.913  -1.035  1.00  0.00           H
+ENDMDL
+MODEL     21
+HETATM    1  N   CSD     1       0.562   0.882  -0.024  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.319   0.039  -0.843  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.628   0.720  -2.158  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.699   1.979  -2.178  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.548  -0.431  -0.034  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.494  -1.745  -0.859  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.326  -2.871  -1.376  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.992  -1.122  -2.156  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.231   0.406   0.211  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.193  -0.846   0.934  1.00  0.00           H
+HETATM   11  H   CSD     1       0.470   1.918  -0.131  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.258  -0.881  -1.089  1.00  0.00           H
+ENDMDL
+MODEL     22
+HETATM    1  N   CSD     1       0.532   0.884  -0.007  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.318   0.025  -0.840  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.642   0.722  -2.140  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.668   1.983  -2.197  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.568  -0.435  -0.056  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.395  -1.861  -0.815  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.169  -3.027  -0.996  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.696  -1.431  -2.245  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.303   0.390   0.047  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.261  -0.738   0.967  1.00  0.00           H
+HETATM   11  H   CSD     1       0.415   1.918  -0.100  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.271  -0.885  -1.086  1.00  0.00           H
+ENDMDL
+MODEL     23
+HETATM    1  N   CSD     1       0.555   0.910  -0.017  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.298   0.037  -0.827  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.608   0.711  -2.137  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.705   1.968  -2.185  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.606  -0.293  -0.088  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.346  -1.330   1.379  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.290  -0.440   2.375  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.486  -2.487   0.888  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.121   0.642   0.222  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.287  -0.848  -0.769  1.00  0.00           H
+HETATM   11  H   CSD     1       0.568   1.937  -0.219  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.236  -0.917  -1.033  1.00  0.00           H
+ENDMDL
+MODEL     24
+HETATM    1  N   CSD     1       0.569   0.913   0.006  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.282   0.053  -0.824  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.606   0.714  -2.143  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.733   1.966  -2.209  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.566  -0.344  -0.074  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.511   1.095   0.496  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.697   1.576   1.910  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.800   0.482   1.029  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.306  -0.971   0.805  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.210  -0.956  -0.743  1.00  0.00           H
+HETATM   11  H   CSD     1       0.447   1.952  -0.032  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.281  -0.881  -1.049  1.00  0.00           H
+ENDMDL
+MODEL     25
+HETATM    1  N   CSD     1       0.569   0.913   0.009  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.282   0.053  -0.825  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.608   0.714  -2.144  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.734   1.968  -2.212  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.564  -0.347  -0.075  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.541   1.088   0.445  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.751   1.629   1.853  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.821   0.465   0.986  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.191  -0.988  -0.732  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.302  -0.944   0.823  1.00  0.00           H
+HETATM   11  H   CSD     1       0.450   1.951  -0.024  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.282  -0.878  -1.052  1.00  0.00           H
+ENDMDL
+MODEL     26
+HETATM    1  N   CSD     1       0.568   0.912   0.007  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.283   0.052  -0.825  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.608   0.713  -2.144  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.731   1.968  -2.210  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.566  -0.350  -0.076  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.535   1.082   0.465  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.738   1.604   1.877  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.816   0.461   1.001  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.198  -0.979  -0.740  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.306  -0.960   0.814  1.00  0.00           H
+HETATM   11  H   CSD     1       0.480   1.953  -0.058  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.282  -0.879  -1.052  1.00  0.00           H
+ENDMDL
+MODEL     27
+HETATM    1  N   CSD     1       0.567   0.911   0.012  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.282   0.054  -0.825  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.609   0.714  -2.143  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.732   1.968  -2.215  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.559  -0.345  -0.066  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.538   1.089   0.451  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.684   0.416   1.514  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.366   1.428  -0.780  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.274  -0.918   0.841  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.186  -1.009  -0.700  1.00  0.00           H
+HETATM   11  H   CSD     1       0.381   1.940   0.044  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.275  -0.879  -1.064  1.00  0.00           H
+ENDMDL
+MODEL     28
+HETATM    1  N   CSD     1       0.566   0.913   0.007  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.283   0.051  -0.825  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.609   0.713  -2.143  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.728   1.967  -2.209  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.567  -0.353  -0.078  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.529   1.079   0.480  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.735   1.575   1.901  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.816   0.459   1.002  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.309  -0.973   0.807  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.203  -0.973  -0.746  1.00  0.00           H
+HETATM   11  H   CSD     1       0.480   1.953  -0.064  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.283  -0.879  -1.050  1.00  0.00           H
+ENDMDL
+MODEL     29
+HETATM    1  N   CSD     1       0.551   0.913  -0.013  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.297   0.035  -0.826  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.612   0.710  -2.137  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.699   1.968  -2.185  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.587  -0.313  -0.066  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.535  -1.596  -0.922  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.394  -0.740  -2.116  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.616  -1.966   0.084  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.220   0.591   0.067  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.321  -0.700   0.940  1.00  0.00           H
+HETATM   11  H   CSD     1       0.476   1.950  -0.122  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.255  -0.913  -1.011  1.00  0.00           H
+ENDMDL
+MODEL     30
+HETATM    1  N   CSD     1       0.564   0.915   0.005  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.285   0.050  -0.825  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.608   0.711  -2.141  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.725   1.967  -2.206  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.568  -0.357  -0.078  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.623   1.057   0.336  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.755   0.397   1.421  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.445   1.282  -0.926  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.287  -0.873   0.866  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.149  -1.078  -0.692  1.00  0.00           H
+HETATM   11  H   CSD     1       0.459   1.953  -0.048  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.279  -0.887  -1.035  1.00  0.00           H
+ENDMDL
+MODEL     31
+HETATM    1  N   CSD     1       0.557   0.914  -0.011  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.293   0.040  -0.826  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.608   0.710  -2.138  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.709   1.966  -2.188  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.599  -0.296  -0.092  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.269  -1.236   1.417  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.801  -2.767   0.841  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.658  -1.488   1.988  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.255  -0.907  -0.749  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.141   0.637   0.175  1.00  0.00           H
+HETATM   11  H   CSD     1       0.492   1.952  -0.124  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.249  -0.913  -1.019  1.00  0.00           H
+ENDMDL
+MODEL     32
+HETATM    1  N   CSD     1       0.539   0.913  -0.008  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.298   0.033  -0.829  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.622   0.708  -2.135  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.681   1.966  -2.183  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.596  -0.334  -0.095  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.247  -1.290   1.399  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.760  -2.806   0.800  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.629  -1.570   1.971  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.245  -0.946  -0.759  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.154   0.584   0.188  1.00  0.00           H
+HETATM   11  H   CSD     1       0.458   1.951  -0.112  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.259  -0.910  -1.034  1.00  0.00           H
+ENDMDL
+MODEL     33
+HETATM    1  N   CSD     1       0.546   0.911  -0.007  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.297   0.036  -0.829  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.621   0.709  -2.140  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.691   1.968  -2.186  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.572  -0.344  -0.057  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.538  -1.590  -0.945  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.424  -0.686  -2.082  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.597  -2.005   0.067  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.291  -0.773   0.928  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.204   0.550   0.132  1.00  0.00           H
+HETATM   11  H   CSD     1       0.440   1.949  -0.079  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.269  -0.896  -1.051  1.00  0.00           H
+ENDMDL
+MODEL     34
+HETATM    1  N   CSD     1       0.555   0.910  -0.017  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.298   0.037  -0.828  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.608   0.711  -2.137  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.705   1.968  -2.185  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.607  -0.294  -0.089  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.346  -1.336   1.374  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.276  -0.460   2.365  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.501  -2.501   0.873  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.289  -0.844  -0.772  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.120   0.641   0.225  1.00  0.00           H
+HETATM   11  H   CSD     1       0.566   1.937  -0.217  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.237  -0.917  -1.033  1.00  0.00           H
+ENDMDL
+MODEL     35
+HETATM    1  N   CSD     1       0.554   0.917  -0.017  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.296   0.036  -0.826  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.609   0.708  -2.141  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.702   1.966  -2.179  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.564  -0.365  -0.048  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.535  -1.588  -0.964  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.436  -0.653  -2.070  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.587  -2.044   0.042  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.257  -0.822   0.919  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.195   0.518   0.185  1.00  0.00           H
+HETATM   11  H   CSD     1       0.446   1.954  -0.101  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.261  -0.908  -1.026  1.00  0.00           H
+ENDMDL
+MODEL     36
+HETATM    1  N   CSD     1       0.534   0.902  -0.011  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.307   0.024  -0.830  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.627   0.715  -2.132  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.676   1.975  -2.191  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.581  -0.360  -0.059  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.194  -1.390   1.378  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.686  -2.866   0.694  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.565  -1.727   1.952  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.109   0.554   0.294  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.266  -0.931  -0.722  1.00  0.00           H
+HETATM   11  H   CSD     1       0.333   1.929  -0.018  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.237  -0.912  -1.086  1.00  0.00           H
+ENDMDL
+MODEL     37
+HETATM    1  N   CSD     1       0.518   0.881  -0.008  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.326   0.015  -0.842  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.652   0.722  -2.135  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.645   1.985  -2.193  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.585  -0.477  -0.091  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.144  -1.302   1.455  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.607  -2.835   0.949  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.496  -1.600   2.092  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.140  -1.202  -0.725  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.271   0.363   0.136  1.00  0.00           H
+HETATM   11  H   CSD     1       0.325   1.911  -0.028  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.263  -0.892  -1.107  1.00  0.00           H
+ENDMDL
+MODEL     38
+HETATM    1  N   CSD     1       0.545   0.914   0.013  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.288   0.045  -0.830  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.631   0.707  -2.147  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.691   1.966  -2.197  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.553  -0.426  -0.086  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.542   0.938   0.579  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.730   1.371   2.011  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.799   0.248   1.090  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.188  -1.021  -0.778  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.267  -1.093   0.754  1.00  0.00           H
+HETATM   11  H   CSD     1       0.484   1.952  -0.083  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.305  -0.865  -1.072  1.00  0.00           H
+ENDMDL
+MODEL     39
+HETATM    1  N   CSD     1       0.576   0.909  -0.003  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.286   0.049  -0.823  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.600   0.717  -2.146  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.741   1.970  -2.207  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.545  -0.346  -0.025  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.450   1.095   0.602  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.473   0.430   1.788  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.412   1.451  -0.523  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.236  -0.961   0.847  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.220  -0.974  -0.644  1.00  0.00           H
+HETATM   11  H   CSD     1       0.431   1.944  -0.028  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.263  -0.884  -1.074  1.00  0.00           H
+ENDMDL
+MODEL     40
+HETATM    1  N   CSD     1       0.542   0.915   0.009  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.289   0.042  -0.829  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.629   0.706  -2.142  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.687   1.965  -2.194  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.560  -0.409  -0.084  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.646   0.968   0.372  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.731   0.263   1.477  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.506   1.182  -0.867  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.129  -1.128  -0.711  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.262  -0.941   0.845  1.00  0.00           H
+HETATM   11  H   CSD     1       0.421   1.953  -0.039  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.295  -0.879  -1.048  1.00  0.00           H
+ENDMDL
+MODEL     41
+HETATM    1  N   CSD     1       0.561   0.889  -0.019  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.313   0.041  -0.841  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.627   0.717  -2.157  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.700   1.976  -2.180  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.558  -0.411  -0.055  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.090  -1.472   1.332  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.643  -2.935   0.584  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.423  -1.809   1.985  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.237  -0.982  -0.723  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.112   0.458   0.353  1.00  0.00           H
+HETATM   11  H   CSD     1       0.474   1.925  -0.130  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.252  -0.884  -1.096  1.00  0.00           H
+ENDMDL
+MODEL     42
+HETATM    1  N   CSD     1       0.559   0.912  -0.007  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.293   0.041  -0.826  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.609   0.712  -2.140  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.714   1.969  -2.195  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.585  -0.301  -0.065  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.520  -1.612  -0.893  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.499  -0.772  -2.006  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.513  -2.067   0.168  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.225   0.600   0.048  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.320  -0.664   0.952  1.00  0.00           H
+HETATM   11  H   CSD     1       0.451   1.949  -0.081  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.257  -0.908  -1.013  1.00  0.00           H
+ENDMDL
+MODEL     43
+HETATM    1  N   CSD     1       0.561   0.888  -0.019  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.313   0.042  -0.840  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.627   0.718  -2.157  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.700   1.976  -2.180  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.557  -0.410  -0.054  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.086  -1.470   1.333  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.666  -2.942   0.590  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -2.416  -1.784   2.004  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.113   0.458   0.352  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.235  -0.984  -0.721  1.00  0.00           H
+HETATM   11  H   CSD     1       0.474   1.924  -0.132  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.251  -0.885  -1.095  1.00  0.00           H
+ENDMDL
+MODEL     44
+HETATM    1  N   CSD     1       0.573   0.908  -0.004  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.288   0.049  -0.823  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.601   0.718  -2.144  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.737   1.970  -2.207  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.545  -0.351  -0.023  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.460   1.091   0.587  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.630   1.380  -0.615  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.283   0.527   1.737  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.216  -0.985  -0.642  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.231  -0.960   0.851  1.00  0.00           H
+HETATM   11  H   CSD     1       0.429   1.943  -0.030  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.263  -0.884  -1.075  1.00  0.00           H
+ENDMDL
+MODEL     45
+HETATM    1  N   CSD     1       0.555   0.911  -0.017  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.298   0.036  -0.828  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.609   0.711  -2.137  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.704   1.968  -2.184  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.606  -0.296  -0.088  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.347  -1.348   1.367  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.253  -0.493   2.351  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.525  -2.522   0.852  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.117   0.639   0.232  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.293  -0.839  -0.774  1.00  0.00           H
+HETATM   11  H   CSD     1       0.561   1.938  -0.214  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.237  -0.916  -1.031  1.00  0.00           H
+ENDMDL
+MODEL     46
+HETATM    1  N   CSD     1       0.564   0.914   0.005  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.284   0.050  -0.825  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.608   0.711  -2.142  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.724   1.966  -2.204  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.570  -0.360  -0.083  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.662   1.046   0.268  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -2.231   1.519   1.846  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -4.025   0.398   0.466  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.129  -1.093  -0.704  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.307  -0.862   0.872  1.00  0.00           H
+HETATM   11  H   CSD     1       0.455   1.952  -0.041  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.281  -0.886  -1.033  1.00  0.00           H
+ENDMDL
+MODEL     47
+HETATM    1  N   CSD     1       0.532   0.883  -0.004  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.317   0.027  -0.840  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.643   0.722  -2.141  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.668   1.982  -2.199  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.564  -0.437  -0.065  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.385  -1.813  -0.906  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.312  -1.063  -2.119  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.435  -2.268   0.098  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.291   0.391   0.075  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.253  -0.792   0.941  1.00  0.00           H
+HETATM   11  H   CSD     1       0.415   1.917  -0.095  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.268  -0.888  -1.085  1.00  0.00           H
+ENDMDL
+MODEL     48
+HETATM    1  N   CSD     1       0.562   0.910  -0.025  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.300   0.038  -0.828  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.605   0.712  -2.143  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.711   1.968  -2.178  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.568  -0.333  -0.039  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.534  -1.584  -0.926  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.644  -0.672  -1.839  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.404  -2.223   0.152  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.261  -0.766   0.937  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.201   0.554   0.170  1.00  0.00           H
+HETATM   11  H   CSD     1       0.574   1.935  -0.235  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.229  -0.919  -1.032  1.00  0.00           H
+ENDMDL
+MODEL     49
+HETATM    1  N   CSD     1       0.541   0.915   0.009  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.289   0.042  -0.829  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.629   0.706  -2.142  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.687   1.965  -2.194  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.563  -0.412  -0.090  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.691   0.955   0.297  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -2.250   1.420   1.874  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -4.030   0.263   0.505  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.282  -0.928   0.854  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.104  -1.147  -0.724  1.00  0.00           H
+HETATM   11  H   CSD     1       0.416   1.951  -0.030  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.296  -0.878  -1.048  1.00  0.00           H
+ENDMDL
+MODEL     50
+HETATM    1  N   CSD     1       0.545   0.913   0.014  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.289   0.046  -0.830  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.631   0.707  -2.147  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.691   1.966  -2.197  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.552  -0.426  -0.085  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.510   0.938   0.624  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.458   0.176   1.814  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.525   1.271  -0.462  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.255  -1.101   0.744  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.199  -1.017  -0.769  1.00  0.00           H
+HETATM   11  H   CSD     1       0.491   1.952  -0.085  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.306  -0.863  -1.072  1.00  0.00           H
+ENDMDL
+MODEL     51
+HETATM    1  N   CSD     1       0.563   0.882  -0.022  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.317   0.041  -0.843  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.629   0.720  -2.159  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.700   1.979  -2.180  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.546  -0.431  -0.043  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.452  -1.725  -0.929  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.474  -0.867  -1.986  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.415  -2.263   0.120  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.236   0.398   0.208  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.195  -0.866   0.917  1.00  0.00           H
+HETATM   11  H   CSD     1       0.468   1.919  -0.125  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.255  -0.883  -1.089  1.00  0.00           H
+ENDMDL
+MODEL     52
+HETATM    1  N   CSD     1       0.543   0.861  -0.003  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.330   0.038  -0.857  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.661   0.727  -2.161  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.669   1.989  -2.195  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.559  -0.552  -0.117  1.00  0.00           C
+HETATM    6  SG  CSD     1      -3.082   0.424  -0.272  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -4.139  -0.320   0.835  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.648   0.008  -1.623  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.773  -1.565  -0.522  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.321  -0.684   0.960  1.00  0.00           H
+HETATM   11  H   CSD     1       0.438   1.898  -0.094  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.282  -0.849  -1.139  1.00  0.00           H
+ENDMDL
+MODEL     53
+HETATM    1  N   CSD     1       0.560   0.875   0.010  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.308   0.049  -0.843  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.637   0.729  -2.153  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.713   1.987  -2.224  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.537  -0.464  -0.064  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.610   0.859   0.552  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -1.931   1.260   2.060  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.890   0.128   0.935  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.135  -1.132  -0.721  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.195  -1.072   0.802  1.00  0.00           H
+HETATM   11  H   CSD     1       0.505   1.910  -0.122  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.271  -0.860  -1.118  1.00  0.00           H
+ENDMDL
+MODEL     54
+HETATM    1  N   CSD     1       0.544   0.913  -0.013  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.299   0.032  -0.829  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.618   0.708  -2.136  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.687   1.968  -2.181  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.584  -0.339  -0.067  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.546  -1.586  -0.959  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.815  -1.948   0.117  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.672  -2.831  -0.895  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.219   0.556   0.099  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.317  -0.755   0.926  1.00  0.00           H
+HETATM   11  H   CSD     1       0.483   1.948  -0.144  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.260  -0.912  -1.024  1.00  0.00           H
+ENDMDL
+MODEL     55
+HETATM    1  N   CSD     1       0.552   0.913  -0.012  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.296   0.036  -0.827  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.611   0.710  -2.137  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.701   1.968  -2.187  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.588  -0.308  -0.069  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.571  -1.541  -0.958  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.913  -1.781   0.060  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.774  -2.828  -0.791  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.334  -0.718   0.932  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.203   0.606   0.079  1.00  0.00           H
+HETATM   11  H   CSD     1       0.475   1.951  -0.118  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.256  -0.913  -1.010  1.00  0.00           H
+ENDMDL
+MODEL     56
+HETATM    1  N   CSD     1       0.557   0.911  -0.016  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.297   0.037  -0.827  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.608   0.711  -2.137  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.707   1.968  -2.186  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.606  -0.293  -0.088  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.348  -1.350   1.364  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.243  -0.506   2.345  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.538  -2.530   0.843  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.293  -0.834  -0.775  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.115   0.641   0.234  1.00  0.00           H
+HETATM   11  H   CSD     1       0.563   1.939  -0.212  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.238  -0.916  -1.032  1.00  0.00           H
+ENDMDL
+MODEL     57
+HETATM    1  N   CSD     1       0.547   0.911  -0.006  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.296   0.036  -0.828  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.621   0.710  -2.141  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.692   1.968  -2.187  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.574  -0.341  -0.060  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.572  -1.537  -0.979  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.898  -1.815   0.050  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.774  -2.830  -0.875  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.188   0.561   0.143  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.304  -0.793   0.919  1.00  0.00           H
+HETATM   11  H   CSD     1       0.446   1.950  -0.082  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.270  -0.895  -1.050  1.00  0.00           H
+ENDMDL
+MODEL     58
+HETATM    1  N   CSD     1       0.541   0.912  -0.009  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.299   0.033  -0.828  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.621   0.708  -2.136  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.683   1.967  -2.183  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.586  -0.335  -0.071  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.557  -1.569  -0.971  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.901  -1.823   0.041  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.752  -2.851  -0.809  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.211   0.569   0.091  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.323  -0.755   0.924  1.00  0.00           H
+HETATM   11  H   CSD     1       0.455   1.950  -0.110  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.264  -0.909  -1.023  1.00  0.00           H
+ENDMDL
+MODEL     59
+HETATM    1  N   CSD     1       0.575   0.907  -0.029  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.297   0.040  -0.823  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.596   0.713  -2.147  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.728   1.969  -2.178  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.565  -0.295  -0.020  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.662  -1.414  -0.917  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.906  -1.703   0.199  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.892  -2.725  -0.929  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.275  -0.792   0.935  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.130   0.625   0.242  1.00  0.00           H
+HETATM   11  H   CSD     1       0.606   1.930  -0.248  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.223  -0.926  -1.030  1.00  0.00           H
+ENDMDL
+MODEL     60
+HETATM    1  N   CSD     1       0.574   0.878   0.007  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.304   0.056  -0.841  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.625   0.730  -2.157  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.734   1.984  -2.224  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.534  -0.440  -0.050  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.567   0.892   0.615  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.439   0.128   1.860  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.623   1.118  -0.456  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.156  -1.105  -0.688  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.177  -1.051   0.806  1.00  0.00           H
+HETATM   11  H   CSD     1       0.523   1.914  -0.122  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.265  -0.862  -1.112  1.00  0.00           H
+ENDMDL
+MODEL     61
+HETATM    1  N   CSD     1       0.546   0.912  -0.007  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.296   0.036  -0.828  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.621   0.709  -2.141  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.692   1.968  -2.187  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.573  -0.336  -0.058  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.568  -1.541  -0.971  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.941  -1.739   0.013  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.815  -2.851  -0.782  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.189   0.567   0.136  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.307  -0.780   0.924  1.00  0.00           H
+HETATM   11  H   CSD     1       0.407   1.946  -0.046  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.270  -0.896  -1.049  1.00  0.00           H
+ENDMDL
+MODEL     62
+HETATM    1  N   CSD     1       0.574   0.877   0.007  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.304   0.055  -0.841  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.626   0.730  -2.157  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.733   1.985  -2.224  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.533  -0.441  -0.050  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.585   0.892   0.585  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.410   0.160   1.881  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -3.672   1.045  -0.470  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.144  -1.122  -0.682  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.177  -1.036   0.818  1.00  0.00           H
+HETATM   11  H   CSD     1       0.524   1.914  -0.124  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.265  -0.862  -1.112  1.00  0.00           H
+ENDMDL
+MODEL     63
+HETATM    1  N   CSD     1       0.544   0.907  -0.012  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.302   0.034  -0.831  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.623   0.711  -2.141  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.687   1.970  -2.183  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.576  -0.330  -0.054  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.552  -1.573  -0.935  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.910  -1.787   0.067  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.763  -2.860  -0.731  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.298  -0.741   0.939  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.202   0.571   0.112  1.00  0.00           H
+HETATM   11  H   CSD     1       0.354   1.935  -0.005  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.248  -0.905  -1.056  1.00  0.00           H
+ENDMDL
+MODEL     64
+HETATM    1  N   CSD     1       0.534   0.885  -0.003  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.314   0.028  -0.838  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.640   0.722  -2.139  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.672   1.982  -2.201  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.559  -0.432  -0.058  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.480  -1.695  -0.969  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.805  -2.023   0.048  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.618  -2.944  -0.831  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.236   0.423   0.148  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.246  -0.861   0.919  1.00  0.00           H
+HETATM   11  H   CSD     1       0.420   1.920  -0.100  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.271  -0.886  -1.085  1.00  0.00           H
+ENDMDL
+MODEL     65
+HETATM    1  N   CSD     1       0.534   0.885  -0.003  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.315   0.028  -0.838  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.640   0.722  -2.139  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.673   1.982  -2.202  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.560  -0.432  -0.057  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.465  -1.713  -0.957  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.779  -2.058   0.066  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.583  -2.947  -0.817  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.247  -0.847   0.925  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.246   0.419   0.136  1.00  0.00           H
+HETATM   11  H   CSD     1       0.417   1.921  -0.094  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.270  -0.886  -1.087  1.00  0.00           H
+ENDMDL
+MODEL     66
+HETATM    1  N   CSD     1       0.556   0.911  -0.008  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.296   0.037  -0.827  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.613   0.711  -2.141  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.706   1.970  -2.191  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.592  -0.293  -0.062  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.544  -1.602  -0.872  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.921  -1.753   0.116  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.755  -2.866  -0.557  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.342  -0.638   0.964  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.225   0.616   0.029  1.00  0.00           H
+HETATM   11  H   CSD     1       0.495   1.949  -0.127  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.254  -0.915  -1.016  1.00  0.00           H
+ENDMDL
+MODEL     67
+HETATM    1  N   CSD     1       0.539   0.912  -0.013  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.301   0.030  -0.829  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.621   0.709  -2.134  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.679   1.967  -2.180  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.604  -0.334  -0.092  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.328  -1.437   1.323  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.197  -0.633   2.308  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.538  -2.606   0.749  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.292  -0.856  -0.791  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.117   0.584   0.265  1.00  0.00           H
+HETATM   11  H   CSD     1       0.508   1.944  -0.176  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.252  -0.911  -1.042  1.00  0.00           H
+ENDMDL
+MODEL     68
+HETATM    1  N   CSD     1       0.534   0.914   0.007  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.293   0.039  -0.829  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.637   0.705  -2.147  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.672   1.964  -2.185  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.560  -0.403  -0.075  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.457  -1.686  -0.984  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.792  -2.013   0.019  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.587  -2.923  -0.818  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.276  -0.813   0.918  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.242   0.455   0.092  1.00  0.00           H
+HETATM   11  H   CSD     1       0.408   1.951  -0.047  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.299  -0.880  -1.038  1.00  0.00           H
+ENDMDL
+MODEL     69
+HETATM    1  N   CSD     1       0.529   0.876   0.020  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.315   0.037  -0.847  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.665   0.724  -2.153  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.662   1.984  -2.212  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.524  -0.522  -0.064  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.869   0.670   0.163  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -2.609   1.277   1.732  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -4.100  -0.209   0.335  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.927  -1.411  -0.594  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -1.187  -0.877   0.933  1.00  0.00           H
+HETATM   11  H   CSD     1       0.437   1.912  -0.086  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.294  -0.849  -1.132  1.00  0.00           H
+ENDMDL
+MODEL     70
+HETATM    1  N   CSD     1       0.524   0.906  -0.014  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.311   0.019  -0.831  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.640   0.709  -2.143  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.650   1.971  -2.170  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.546  -0.395  -0.006  1.00  0.00           C
+HETATM    6  SG  CSD     1      -2.167  -2.022  -0.498  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -3.521  -2.248   0.509  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -1.141  -2.989   0.077  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -1.279  -0.461   1.072  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.354   0.363  -0.097  1.00  0.00           H
+HETATM   11  H   CSD     1       0.311   1.931  -0.009  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.277  -0.889  -1.090  1.00  0.00           H
+ENDMDL
+MODEL     71
+HETATM    1  N   CSD     1       0.539   0.912  -0.013  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.301   0.030  -0.829  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.621   0.708  -2.135  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.679   1.968  -2.180  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.603  -0.333  -0.091  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.327  -1.437   1.323  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.182  -0.642   2.300  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.551  -2.613   0.745  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.117   0.585   0.267  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.292  -0.856  -0.790  1.00  0.00           H
+HETATM   11  H   CSD     1       0.509   1.945  -0.178  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.252  -0.911  -1.041  1.00  0.00           H
+ENDMDL
+MODEL     72
+HETATM    1  N   CSD     1       0.560   0.887  -0.022  1.00  0.00           N
+HETATM    2  CA  CSD     1      -0.315   0.039  -0.840  1.00  0.00           C
+HETATM    3  C   CSD     1      -0.626   0.718  -2.156  1.00  0.00           C
+HETATM    4  O   CSD     1      -0.698   1.978  -2.179  1.00  0.00           O
+HETATM    5  CB  CSD     1      -1.569  -0.410  -0.059  1.00  0.00           C
+HETATM    6  SG  CSD     1      -1.183  -1.546   1.302  1.00  0.00           S
+HETATM    7  OD1 CSD     1      -0.099  -0.692   2.298  1.00  0.00           O
+HETATM    8  OD2 CSD     1      -0.317  -2.629   0.674  1.00  0.00           O
+HETATM    9 1HB  CSD     1      -2.263  -0.939  -0.749  1.00  0.00           H
+HETATM   10 2HB  CSD     1      -2.108   0.459   0.369  1.00  0.00           H
+HETATM   11  H   CSD     1       0.470   1.923  -0.133  1.00  0.00           H
+HETATM   12  HA  CSD     1       0.249  -0.883  -1.101  1.00  0.00           H
+ENDMDL
